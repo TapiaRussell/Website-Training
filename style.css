@@ -1,0 +1,27 @@
+/* Selector {
+    property: value;
+} */
+
+h1 {
+    color: rgb(6, 22, 167);
+    text-align: center;
+    border: 2px solid rgb(65, 216, 19);
+    cursor: pointer;
+}
+
+p{
+    color: rgb(47, 197, 54);
+}
+.homeBody {
+    
+    background-image: url(anna-wangler-329988-unsplash.jpg);
+    background-size: cover;
+}
+.loginBody {
+    background-image: url(person-110305_1920.jpg);
+    background-size: cover;
+}
+li.page {
+    list-style: none;
+    display: inline-block;
+}
